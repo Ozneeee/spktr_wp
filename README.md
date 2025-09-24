@@ -3,10 +3,10 @@
 Ce dépôt contient le **site WordPress complet** développé avec un thème personnalisé `test`, du contenu créer avec **Elementor** et aussi en **PHP** pur.  
 Il inclut :
 
-- Le thème personnalisé (`/wp-content/themes/test/`)
-- Les plugins nécessaires (Elementor, etc.) dans `/wp-content/plugins/`)
-- Les médias utilisés (`/wp-content/uploads/`)
-- La base de données exportée (`/database/spktr_wp.sql`) contenant toutes les pages, contenus et réglages Elementor.
+- Le thème personnalisé `/themes/test/`
+- Les plugins nécessaires dans `/plugins/`
+- Les médias utilisés `/uploads/`
+- La base de données exportée `/database/spktr_wp.sql` contenant toutes les pages, contenus et réglages Elementor.
 
 ---
 
