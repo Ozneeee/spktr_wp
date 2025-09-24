@@ -1,0 +1,85 @@
+.hero {
+  height: 95vh;
+  background-color: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  padding: 0 24px;
+  box-sizing: border-box;
+}
+
+.hero-content h1 {
+  font-size: 48px;
+  color: #000;
+  margin-bottom: 16px;
+}
+
+.hero-content .hero-slogan {
+  font-size: 20px;
+  color: #000;
+  margin-bottom: 24px;
+}
+
+.hero-content .hero-button {
+  display: inline-block;
+  padding: 12px 28px;
+  background-color: #000;
+  color: #fff;
+  text-decoration: none;
+  font-weight: 600;
+  border-radius: 6px;
+}
+
+.hero-content .hero-button:hover {
+  background-color: #333;
+}
+
+.section-texte {
+  background-color: #f5f5f5;
+  padding: 60px 24px;
+}
+
+.texte-image-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  max-width: 1100px;
+  margin: 0 auto;
+  gap: 40px;
+  flex-wrap: wrap;
+}
+
+.texte-image-container .texte {
+  flex: 1 1 400px;
+}
+
+.texte-image-container .image {
+  flex: 1 1 400px;
+}
+
+.texte-image-container .image img {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+}
+
+.date-section {
+  text-align: center;
+  background-color: #0f0f0f;
+  color: #f5f5f5;
+}
+
+.separator {
+  border: none;
+  border-top: 1px solid #636363;
+  width: 60%;
+  align-self: center;
+  margin: 0 auto;
+}
+
+.date-section-text {
+  font-size: 18px;
+  font-weight: 500;
+  padding: 50px 0px;
+}
