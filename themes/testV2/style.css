@@ -1,0 +1,25 @@
+/*
+Theme Name: testV2
+Theme URI: http://localhost/spktr_wp
+Author: Enzo
+Description: Thème custom pour le test technique V2
+Version: 1.0
+*/
+
+*,
+::before,
+::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  background: #f5f5f5;
+}
+
+::selection {
+  background: #ff804a;
+  color: #f5f5f5;
+}
